@@ -2972,6 +2972,11 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <wire x1="55.88" y1="157.48" x2="43.18" y2="157.48" width="0.1524" layer="91"/>
 <label x="49.53" y="157.48" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="SJ8" gate="G$1" pin="1"/>
+<wire x1="33.02" y1="91.44" x2="27.94" y2="91.44" width="0.1524" layer="91"/>
+<label x="30.48" y="91.44" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="D2" class="0">
 <segment>
@@ -2979,17 +2984,17 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <pinref part="H2" gate="G$1" pin="4"/>
 <label x="49.53" y="154.94" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="SJ7" gate="G$1" pin="1"/>
+<wire x1="38.1" y1="99.06" x2="27.94" y2="99.06" width="0.1524" layer="91"/>
+<label x="30.48" y="99.06" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="D5" class="0">
 <segment>
 <pinref part="H1" gate="G$1" pin="4"/>
 <wire x1="26.67" y1="154.94" x2="38.1" y2="154.94" width="0.1524" layer="91"/>
 <label x="27.94" y="154.94" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="SJ8" gate="G$1" pin="1"/>
-<wire x1="33.02" y1="91.44" x2="27.94" y2="91.44" width="0.1524" layer="91"/>
-<label x="30.48" y="91.44" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="D6" class="0">
@@ -3053,11 +3058,6 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <pinref part="H2" gate="G$1" pin="6"/>
 <wire x1="55.88" y1="149.86" x2="43.18" y2="149.86" width="0.1524" layer="91"/>
 <label x="49.53" y="149.86" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="SJ7" gate="G$1" pin="1"/>
-<wire x1="38.1" y1="99.06" x2="27.94" y2="99.06" width="0.1524" layer="91"/>
-<label x="30.48" y="99.06" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="D3" class="0">

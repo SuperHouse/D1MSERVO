@@ -14,7 +14,7 @@ Features:
  * I2C interface with pull-up resistors.
  * Configurable I2C address to allow stacking. Default address 0x40.
  * PCA9685 PWM controller IC.
- * SDA: D5. SCL: D4.
+ * SCL: D1. SDA: D2.
  * External power terminals for powering servos at 6V.
  * Power jumper to link D1 Mini 5V rail to servo power.
  * OE (active low Output Enable) broken out for manual connection if required.
