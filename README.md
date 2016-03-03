@@ -20,7 +20,7 @@ Features:
  * OE (active low Output Enable) broken out for manual connection if required.
  * Power LED to show when servo power is available.
 
-![Oblique view](https://raw.githubusercontent.com/SuperHouse/D1MSERVO/master/images/D1MSERVO-oblique-v1_0.png)
+![Oblique view](https://raw.githubusercontent.com/SuperHouse/D1MSERVO/master/images/D1MSERVO-oblique-v1_0.jpg)
 
 ![Top view](https://raw.githubusercontent.com/SuperHouse/D1MSERVO/master/images/D1MSERVO-top-v1_0.png)
 
